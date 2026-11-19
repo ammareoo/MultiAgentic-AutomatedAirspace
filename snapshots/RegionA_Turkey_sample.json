@@ -1,0 +1,17 @@
+{
+  "region": "RegionA_Turkey",
+  "fetched_at": 1764178123,
+  "fetched_at_iso": "2025-11-26T17:28:43+00:00",
+  "flights": [
+    {
+      "icao24": "4baa1a",
+      "callsign": "THY4KZ",
+      "latitude": 41.0,
+      "longitude": 39.0,
+      "geo_altitude": 11000,
+      "velocity_mps": 220,
+      "anomaly_score": 0.0,
+      "anomaly_reasons": []
+    }
+  ]
+}
